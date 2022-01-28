@@ -159,7 +159,9 @@ img {
 }
 
 /*=============== HEADER & NAV===============*/
-
+.header{
+    position:fixed;
+}
 
 /* Active link */
 
